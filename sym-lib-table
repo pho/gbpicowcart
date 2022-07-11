@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "gekkio")(type "KiCad")(uri "/home/pho/code/pcb/gekkio-kicad-libs/Gekkio_Connector_Specialized.kicad_sym")(options "")(descr ""))
+  (lib (name "picow")(type "KiCad")(uri "/home/pho/code/pcb/rpi-picow-kicad/RPi_Pico.kicad_sym")(options "")(descr ""))
+)
