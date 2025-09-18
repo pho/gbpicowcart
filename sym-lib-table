@@ -1,4 +1,7 @@
 (sym_lib_table
+  (version 7)
   (lib (name "gekkio")(type "KiCad")(uri "/home/pho/code/pcb/gekkio-kicad-libs/Gekkio_Connector_Specialized.kicad_sym")(options "")(descr ""))
   (lib (name "picow")(type "KiCad")(uri "/home/pho/code/pcb/rpi-picow-kicad/RPi_Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "rp2350")(type "KiCad")(uri "/home/pho/code/pcb/RP2350_KiCad/rp2350b-qfn80.kicad_sym")(options "")(descr ""))
+  (lib (name "abm8-272-t3")(type "KiCad")(uri "${KIPRJMOD}/external-sym-fp/abm8-272-t3/2025-03-25_23-20-38.kicad_sym")(options "")(descr ""))
 )
