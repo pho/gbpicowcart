@@ -11,4 +11,5 @@
   (lib (name "C42411119")(type "KiCad")(uri "${KIPRJMOD}/external-sym-fp/easyeda/C42411119.kicad_sym")(options "")(descr ""))
   (lib (name "C20625731")(type "KiCad")(uri "${KIPRJMOD}/external-sym-fp/easyeda/C20625731.kicad_sym")(options "")(descr ""))
   (lib (name "C2927038")(type "KiCad")(uri "${KIPRJMOD}/external-sym-fp/easyeda/C2927038.kicad_sym")(options "")(descr ""))
+  (lib (name "C18214056")(type "KiCad")(uri "${KIPRJMOD}/external-sym-fp/easyeda/C18214056.kicad_sym")(options "")(descr ""))
 )
